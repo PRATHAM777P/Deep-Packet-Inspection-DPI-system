@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/TLS-SNI_Inspection-black?style=for-the-badge&logo=letsencrypt&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Multi--Threaded-14B8A6?style=for-the-badge&logo=processwire&logoColor=white"/>
 <img src="https://img.shields.io/badge/Platform-Cross--Platform-0891B2?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/License-MIT-2DD4BF?style=for-the-badge"/>
 
 <br/><br/>
 
